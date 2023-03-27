@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @KaranvirSinghL
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning HTML,C,Pyton
-- 📫 How to reach me @Karantweeets on twitter 
+- 🌱 I’m currently learning HTML,CSS,C,Pyton and Javascript
 
 <!---
 KaranvirSinghL/KaranvirSinghL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
